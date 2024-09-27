@@ -111,6 +111,7 @@ header .gnb .gnb_wrap .depth2 li a {
     display: block;
     color: #666;
     line-height: 49px;
+    margin: 0 20px;
 }
 header .gnb .gnb_wrap .depth2 li a:hover {
     color: var(--color-main);

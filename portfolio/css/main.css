@@ -11,9 +11,13 @@ body {
     position: relative;
 }
 
+.home .wrapper {
+    padding-top: 330px;
+}
+
 .home::after {
     position: absolute;
-    bottom: 130px;
+    bottom: 70px;
     left: 50%;
     transform: translate(-50%, 0);
     width: 1920px;
@@ -26,7 +30,6 @@ body {
 }
 
 .home h2 {
-    margin-top: 220px;
     text-align: center;
 }
 
@@ -169,6 +172,7 @@ body {
 }
 
 .profile .profile02 ul.tit>li>strong {
+    font-weight: 700;
     font-size: 35px;
     text-decoration: underline var(--color-main-r);
     text-decoration-thickness: 3px;
@@ -176,13 +180,14 @@ body {
 }
 
 .profile .profile02 ul.list li span {
+    font-size: 16px;
     display: block;
     color: #666;
     margin-top: 16px;
 }
 
 .profile .profile02 ul.list li strong {
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .profile .profile_02 ul.list {
@@ -204,7 +209,7 @@ body {
 }
 
 .profile .profile_02 ul.list li strong {
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .project .wrapper {
