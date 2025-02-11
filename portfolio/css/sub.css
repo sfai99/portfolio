@@ -381,6 +381,8 @@ header.sub .gnb .gnb_wrap ul li:last-child a {
     overflow: hidden;
     line-height: 0;
     font-size: 0;
+    width: 100%;
+    height: auto;
     margin-bottom: 100px;
 }
 
