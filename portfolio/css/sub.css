@@ -231,11 +231,12 @@ header.sub .gnb .gnb_wrap ul li:last-child a {
     display: flex;
     justify-content: space-between;
     margin: 50px 0 150px 0;
+    gap: 1em;
 }
 
 .cts02 .c02_04 .photo {
     overflow: hidden;
-    width: calc(100% - 15px);
+    width: 100%;
     line-height: 0;
     font-size: 0;
 }
