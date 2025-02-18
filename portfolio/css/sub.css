@@ -237,7 +237,6 @@ header.sub .gnb .gnb_wrap ul li:last-child a {
 
 .cts02 .c02_04 .photo {
     overflow: hidden;
-    width: 100%;
     line-height: 0;
     font-size: 0;
 }
