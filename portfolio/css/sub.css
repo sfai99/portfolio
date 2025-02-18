@@ -125,6 +125,7 @@ header.sub .gnb .gnb_wrap ul li:last-child a {
 .cts01 .wrap {
     display: flex;
     justify-content: space-between;
+    gap: 5em;
 }
 
 .cts01 .wrap .txt h2 {
