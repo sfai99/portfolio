@@ -253,6 +253,7 @@ header.sub .gnb .gnb_wrap ul li:last-child a {
 
 .cts03 .photo img {
     object-fit: cover;
+    width: 100%;
 }
 
 .cts_sakyejul01 {
