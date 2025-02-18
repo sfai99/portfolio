@@ -159,6 +159,7 @@ header.sub .gnb .gnb_wrap ul li:last-child a {
 
 .cts01 .wrap .photo img {
     object-fit: cover;
+    width: 100%;
 }
 
 .cts02 .wrap {
